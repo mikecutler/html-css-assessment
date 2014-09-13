@@ -1,0 +1,45 @@
+nav {
+	background-color: black;
+	width: 100%;
+	height: 30%;
+	color: white;
+}
+
+.new {
+	display: inline-block;
+	width: 30%;
+	height: 50px;
+	background-color: red;
+	margin-top: 50px;
+	margin-right: 25px;
+	margin-left: 25px;
+	 
+}
+
+.in-progress {
+	display: inline-block;
+	width: 30%;
+	height: 50px;
+	background-color: yellow;
+	margin-right: 25px;
+
+}
+
+.archived {
+	display: inline-block;
+	width: 30%;
+	height: 50px;
+	background-color: green;
+	margin-right: 25px;
+
+	
+}
+
+.create-new-list {
+	display: inline-block;
+	width: 30%;
+	height: 50px;
+	background-color: #C0C0C0;
+	margin-top: 75px;
+	margin-left: 25px;
+}
